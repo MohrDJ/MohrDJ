@@ -3,3 +3,6 @@
 
 ### Ferramentas e linguagens ⚙️💻
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+![Mohr GitHub stats](https://github-readme-stats.vercel.app/api?username=MohrDJ&show_icons=true&theme=radical)
